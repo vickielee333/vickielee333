@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vickielee333
 - 👀 I’m interested in remote sensing data processing and geophysics modeling
-- 🌱 I’m currently learning python and coding skills
-- 💞️ I’m looking to collaborate on new ideas on remote sensing data processing
+- 🌱 I’m currently learning python and numerical modeling
+- 💞️ I’m looking to collaborate on new ideas on remote sensing data processing/geophysical data processing/modeling
 - 📫 How to reach me : vickielee333@gmail.com
 
 <!---
